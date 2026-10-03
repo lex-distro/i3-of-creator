@@ -1,0 +1,6 @@
+[font]
+normal = { family = "IosevkaNerdFontMono"}
+size = 15
+
+[colors.primary]
+background = "#000000"
